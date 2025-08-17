@@ -16,7 +16,4 @@ It demonstrates how to make HTTP GET requests in Java, parse JSON responses, and
 - org.json (JSON parsing)
 - Open-Meteo Public REST API
 
-## How to Run
-1. Clone or download this repository.
-2. Open the project in **IntelliJ IDEA** or any Java IDE.
-3. Run the `WeatherApp.java` file located in:
+
